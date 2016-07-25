@@ -1,0 +1,12 @@
+﻿@{ 
+    ViewBag.Title = "Customers";
+}
+
+<script src="~/scripts/jquery-1.10.2.js"></script>
+<script src="~/scripts/knockout-3.4.0.js"></script>
+<script src="~/javascript/CustomerViewModel.js"></script>
+
+<h2>Customers</h2>
+
+<div id="displayNode"> @Html.Partial("Shared/CustomerList")</div>
+<div id="createNode"> @Html.Partial("Shared/CreateCustomer")</div>
