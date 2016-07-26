@@ -1,5 +1,5 @@
 # ASP.Net-MVC-KnockOut
-As short ASP.Net MVC solution using KnockOutJS framework(Credits : @amar)
+A short ASP.Net MVC solution using KnockOutJS framework(Credits : @amar)
 
 ## Using : 
 Entity Framework 6 </br>
